@@ -2,9 +2,11 @@
 
 ## Deployment Procedure - on Heroku
 
-1. Clone the repo 
+1. Clone the repo & install dependencies
 
     `git clone <repo-url>`
+    
+    `npm install` or `yarn install`
 
 ### Make sure to have Heroku cli installed
 
